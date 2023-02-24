@@ -1,6 +1,6 @@
 # Hexagonal architecture
 
-We arrive at one of the well-known ways of grouping functionality together - Hexagonal Architecture, also known as Ports & Adapters or The Onion Architecture. 🙂
+We arrive at one of the well-known ways of grouping functionality together - Hexagonal Architecture, also known as Ports & Adapters or the onion architecture. 🙂
 
 This is my favourite way of structuring Go apps, especially when coupled with a microservice architecture.
 I find that it scales well to problems of different sizes and complexity, and you can add or remove as many layers as you need:

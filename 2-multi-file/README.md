@@ -6,4 +6,4 @@ This structure is great for:
 - beginners who are just starting to figure out how to group related functionality together
 - simple projects/apps which don't require more than a few files
 
-Note that there's no right or wrong here - I could have just one file called `calorie_calculator.go` which would also contain the input parsing function, or I can have two files as in the example. Whatever works best for your use case and helps you organise your code best (while keeping things simple)! 
+Note that there's no right or wrong here - I could have just one file called `calorie_calculator.go` which would also contain the input parsing function, or I can have two files as in the example. Whatever works for your use case and helps you organise your code best (while keeping things simple)! 
